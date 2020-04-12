@@ -10,6 +10,7 @@ import AboutIcwrerConferenceVenue from '@/pages/aboutIcwrer/aboutIcwrerConferenc
 import Submissions from '@/pages/submissions/submissions'
 import SubmissionsTopics from '@/pages/submissions/submissionsTopics'
 import SubmissionsPublications from '@/pages/submissions/submissionsPublications'
+import SubmissionsGuidelines from '@/pages/submissions/submissionsGuidelines'
 
 import Agenda from '@/pages/agenda'
 import Registration from '@/pages/registration'
@@ -84,6 +85,11 @@ export default new Router({
       path: '/submissionsPublications',
       name: 'SubmissionsPublications',
       component: SubmissionsPublications
+    },
+    {
+      path: '/submissionsGuidelines',
+      name: 'SubmissionsGuidelines',
+      component: SubmissionsGuidelines
     },
   ]
 })
