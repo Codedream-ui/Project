@@ -28,6 +28,7 @@
               <router-link :to="urlData.submissions">Submissions</router-link>
               <ul class="child-menu-list fix">
                 <li><router-link :to="urlData.submissionsTopics">Topics</router-link></li>
+                <li><router-link :to="urlData.submissionsGuidelines">Guidelines</router-link></li>
                 <li><router-link :to="urlData.submissionsPublications">Publications</router-link></li>
               </ul>
             </li>
@@ -104,6 +105,7 @@ export default {
 
         submissionsTopics:'/submissionsTopics',     
         submissionsPublications:'/submissionsPublications',     
+        submissionsGuidelines:'/submissionsGuidelines',     
       },
     }
   },
