@@ -16,15 +16,15 @@
     </section>
 
     <div class="page-title clearfix container">
-      <h1><strong>Welcome to ISWEE 2020!</strong></h1>
+      <h1><strong>Welcome to BECB 2021!</strong></h1>
     </div>
 
     <div class="container">
-      2020 International Symposium on Water, Ecology and Environment (ISWEE 2020) will be held in Beijing, China from December 6th to 8th, 2020.<br/><br/>
+     The 2021 International Symposium on Biomedical Engineering and Computational Biology (BECB 2021) will be held in the beautiful China's capital, Beijing. <br/><br/>
 
-      ISWEE 2020 aims to provide an international forum for academics, scientists, experts from all over the world in the field of water, ecology and environment to exchange the latest ideas, theoretical and practical research findings. The program will include keynote speeches, invited speeches, oral presentations and poster session. It is with great pleasure that we invite you to attend this symposium.<br/><br/>
+      The BECB is a flagship annual international conference on biomedical engineering and bioinformatics, promoting all aspects of theory, algorithm design, applications and related emerging techniques. As a tradition, the BECB 2021 will co-locate a large number of topics within or related to biomedical engineering and bioinformatics, thereby providing a unique platform for promoting cross-fertilization and collaboration. The BECB 2021 will be featured by keynote speeches, oral presentations and poster sessions.<br/><br/>
 
-      We look forward to meeting you in Beijing, China!
+      We hope you will join us at this exciting event, and look forward to seeing you in Beijing in August 2021.
   
     </div>
 
@@ -38,17 +38,18 @@
             Login System
           </h3>
           <div class="anniu">
-            <div class="anniu_x">
+            <div class="anniu_x" style="margin-bottom: 15px;">
                 <div class="an_l" >
                 <br>
-                  <a href="#" target="_blank" style="color:#fff;">Author Log System</a>
+                <br>
+                  <a href="#" target="_blank" style="color:#fff;">Author System</a>
                 </div>
                 <br />
             </div>
             <div class="anniu_x">
               <div class="an_2">
                 <a href="#" target="_blank" style="color:#fff;">
-                 Reviewer Log System
+                 Reviewer System
                 </a>
               </div>
             </div>
@@ -61,10 +62,11 @@
             Files Download
           </h3>
           <p class="files-download">
-            <span>1. <a href="file/Abstract Template.doc" target="_blank">Abstract Template</a></span><br />
-            <span>2. <a href="file/ICBEB 2020-Registration Form.xlsx" target="_blank">Registration Form</a></span><br />
-            <span>3. <a href="file/ICBEB 2020-Poster Template.pptx" target="_blank">Paper Template</a></span><br/>
-            <span>4. <a href="file/ICBEB 2020-CFP.pdf" target="_blank">CFP Brochure</a></span>
+          <br>
+            <span>1. <a href="#" target="_blank">Abstract Template</a></span><br />
+            <span>2. <a href="#" target="_blank">Registration Form</a></span><br />
+            <span>3. <a href="#" target="_blank">Paper Template</a></span><br/>
+            <span>4. <a href="#" target="_blank">CFP Brochure</a></span>
           </p>
         </li>
         
@@ -74,21 +76,29 @@
             Important Dates
           </h3>
           <p class="important-dates">
-          <span> 
-            Submission Deadline for Full Paper/Abstract: 
-            <span style="color: #f00;">October 15, 2020</span>
+           <span font-size:1> 
+            First Round Submission Deadline for Full Paper/Abstract: 
+            <span style="color: #f00;">February 15, 2021</span>
           </span><br />
-          <span> 
+          <span font-size:1> 
+            Second Round Submission Deadline for Full Paper/Abstract: 
+            <span style="color: #f00;">April 15, 2021</span>
+          </span><br />
+          <span font-size:1> 
+            Third Round Submission Deadline for Full Paper/Abstract: 
+            <span style="color: #f00;">June 15, 2021</span>
+          </span><br />
+          <span font-size:1> 
             Early Registration Deadline: 
-            <span style="color: #f00;"> November 1, 2020</span>
+            <span style="color: #f00;"> July 1, 2021</span>
           </span<br />
-          <span> 
+          <span font-size:1> 
             Notification Date:
             <span style="color: #f00;"> About 1 week after submission</span>
           </span<br />
-          <span>  
+          <span font-size:1>  
             Conference Period:
-            <span style="color: #f00;"> December 6-8, 2020</span>
+            <span style="color: #f00;"> August 11-13, 2021</span>
           </span<br />
 
         </p>
@@ -99,15 +109,16 @@
       <div class="page-title clearfix">
         <h1><strong>Proceedings</strong></h1>
       </div>
-
+       
        <p style="line-height: 30px;margin: 10px 0;">
-        Conference Proceedings (full papers) will be published in IOP Conference Series:Earth and Environmental Science(EES).
+        Conference proceedings (full papers) will be published in IOP Conference Series: Journal of Physics: Conference Series (JPCS)
       </p>
        <p style="line-height: 30px;margin: 10px 0;">
-        ISSN: 1755-1315(Online) 1755-1307(Print) <br>
+        ISSN: 1742-6588<br>
         Publisher: IOP Publishing<br>
-        indexing: EI Compendex,Scopus,CPCI(WoS),etc.<br>
+        indexing: EI Compendex,Scopus,CPCI (WoS),etc.<br>
       </p>
+
     </div>
 
     <div class="container">
@@ -115,53 +126,56 @@
         <h1><strong>SCI/ISI Journals</strong></h1>
       </div>
       <p style="line-height: 30px;margin: 10px 0;">
-        Selected papers will be recommended for publication in the related SCI/ISI journals with JCR impact factors.
+        Selected abstracts will be published as supplement issue in below SCI journal.
       </p>
 
      
 
       <ul class="book-list">
         <li class="fix">
-          <img class="fl" src="../assets/images/book_01.jpg" alt="">
+          <img class="fl" src="../assets/images/book_01.png" alt="">
           <div class="introduction fr">
-            <p class="title">Environmental Science and Pollution Research</p>
-            <p>Publisher: Springer</p>
-            <p>ISSN:0944-1344(Print) 1614-7499(Online)</p>
-            <p>JCR Impact factor:2.914</p>
-            <p>Publication Type: Special issue</p>
+            <p class="title">Basic & Clinical Pharmacology & Toxicology (Abstracts)  </p>
+            <p>ISSN (online): 1742-7843  </p>
+            <p>JCR Impact factor: 2.452</p>
+            <p>Publication Type: Supplement issue </p>
+            <p>Indexed in: Science Citation Index (Clarivate Analytics), Science Citation Index Expanded (Clarivate Analytics), MEDLINE/PubMed (NLM), etc. </p>
           </div>
         </li>
         <li class="fix">
-          <img class="fl" src="../assets/images/book_02.png" alt="">
+          <img class="fl" src="../assets/images/book_02.jpg" alt="">
           <div class="introduction fr">
-            <p class="title">Environmental Technology(Taylor & Francis)</p>
-            <p>Publisher: Taylor & Francis</p>
-            <p>ISSN:0959-3330(Print) 1479-487X(Online)</p>
-            <p>JCR Impact factor: 1.918</p>
+            <p class="title">Preparative Biochemistry & Biotechnology </p>
+            <p>ISSN (online): 1532-2297</p>
+            <p>JCR Impact factor: 1.117</p>
             <p>Publication Type: Special issue</p>
+            <p>Indexed in: Science Citation Index Expanded (SCIE), Scopus, PubMed Central (PMC), MEDLINE, etc. </p>
+            <p>&nbsp</p>
           </div>
         </li>
         <li class="fix">
-          <img class="fl" src="../assets/images/book_03.jpg" alt="">
+          <img class="fl" src="../assets/images/book_03.png" alt="">
           <div class="introduction fr">
-            <p class="title">Journal of Coastal Research</p>
-            <p>Publisher: Coastal Education and Research Foundation</p>
-            <p>ISSN:0749-0208(Print) 1551-5036(Online)</p>
-            <p>JCR Impact factor: 1.053</p>
+            <p class="title">Journal of Bioinformatics and Computational Biology </p>
+            <p>ISSN (online): 1757-6334 </p>
+            <p>JCR Impact factor: 0.845 </p>
             <p>Publication Type: Special issue</p>
+            <p>Indexed in: Science Citation Index Expanded, Journal Citation Reports/Science Edition, Scopus, Google Scholar, CNKI Scholar, MEDLINE etc. </p>
           </div>
         </li>
         <li class="fix">
           <img class="fl" src="../assets/images/book_04.png" alt="">
           <div class="introduction fr">
-            <p class="title">Applied Ecology and Environmental Research</p>
-            <p>ISSN: 1589-1623(Print) 1785-0037(Online)</p>
-            <p>JCR Impact factor: 0.721</p>
-            <p>Publication Type: Special issue</p>
+            <p class="title">Technology and Health Care  </p>
+            <p>ISSN (online): 1878-7401  </p>
+            <p>JCR Impact factor: 0.787  </p>
+            <p>Publication Type: Supplement issue </p>
+            <p>Indexed in: Science Citation Index-Expanded (SciSearch®), MEDLINE, Pubmed Central, Scopus, etc.</p>
+            <p></p>
           </div>
         </li>
       </ul>
-        <span style="color:#0e73b7;margin-bottom: 10px;display:block;">* More SCI journals related to ISWEE 2020 General Topics, please contact the organizing committee.</span>
+        <span style="color:#0e73b7;margin-bottom: 10px;display:block;">* More SCI journals related to BECB 2021 General Topics, please contact the organizing committee.</span>
     </div>
   </div>
   
@@ -210,19 +224,35 @@ export default {
 }
 
 .book-list {
-  width: 100%;
+  width: 84%;
+  border: 1px solid #000;
+  font-size: 0;
 }
 .book-list li {
-  width: 45%;
+  
+  width:50%;
   display: inline-block;
-  margin-bottom: 20px
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+
 }
-.book-list li:nth-child(2n - 1) {
-  margin-right: 5%;
+.book-list li:nth-child(1) {
+  border-right: 1px solid #000;
 }
+.book-list li:nth-child(3) {
+  border-top:  1px solid #000;
+  border-right: 1px solid #000;
+}
+.book-list li:nth-child(4) {
+  border-top:  1px solid #000;
+}
+/*.book-list li:nth-child(2n - 1) {
+  margin-right: 2%;
+}*/
 .introduction {
   display: inline-block;
-  width: calc(100% - 174px);
+  width: calc(100% - 137px);
   margin-left: 10px;
 }
 .introduction p {

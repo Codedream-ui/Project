@@ -1,6 +1,6 @@
 <template>
   <div>
-    <banner label="Registration" on="Call for Papers"></banner>
+    <banner label="Registration" on="Registration"></banner>
     <section class="container guidelines-text">
           <div class="mb20 fs26 color-014c85">Registration Fees</div>
             <table border="1" class="registrantion-table mb25">
@@ -34,11 +34,12 @@
             </ul>
             
             
-            <p class="mb10">4.	Once the payment is made, please send the payment proof to the Organizing Committee at isweeinfo@163.com for confirmation and further arrangements. </p>
+            <p class="mb10">4.	Once the payment is made, please send the payment proof to the Organizing Committee at becbinfo@163.com for confirmation and further arrangements. </p>
             <p class="mb10">5.	If you cannot attend the conference due to some reasons, please let us know in advance and the full paper can also be published and indexed as normal. </p>
             
+            <br>
             <p class="b mb5">Payment Methods</p>
-            <p class="mb10">Please contact the Organizing Committee at <a href="isweeinfo@163.com" target="_blank">isweeinfo@163.com</a> for details. </p>
+            <p class="mb10">Please contact the Organizing Committee at <a href="becbinfo@163.com" target="_blank">becbinfo@163.com</a> for details. </p>
         </section>
   </div>
 </template>

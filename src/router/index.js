@@ -2,10 +2,10 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/pages/home'
 
-import AboutIcwrer from '@/pages/aboutIcwrer/aboutIcwrer'
-import AboutIcwrerKeynoteSpeakers from '@/pages/aboutIcwrer/aboutIcwrerKeynoteSpeakers'
-import AboutIcwrerCommittes from '@/pages/aboutIcwrer/aboutIcwrerCommittes'
-import AboutIcwrerConferenceVenue from '@/pages/aboutIcwrer/aboutIcwrerConferenceVenue'
+import AboutIswee from '@/pages/aboutIswee/aboutIswee'
+import AboutIsweeKeynoteSpeakers from '@/pages/aboutIswee/aboutIsweeKeynoteSpeakers'
+import AboutIsweeCommittes from '@/pages/aboutIswee/aboutIsweeCommittes'
+import AboutIsweeConferenceVenue from '@/pages/aboutIswee/aboutIsweeConferenceVenue'
 
 import Submissions from '@/pages/submissions/submissions'
 import SubmissionsTopics from '@/pages/submissions/submissionsTopics'
@@ -29,9 +29,9 @@ export default new Router({
       component: Home
     },
     {
-      path: '/aboutIcwrer',
-      name: 'AboutIcwrer',
-      component: AboutIcwrer
+      path: '/aboutIswee',
+      name: 'AboutIswee',
+      component: AboutIswee
     },
     {
       path: '/submissions',
@@ -61,19 +61,19 @@ export default new Router({
 
 
     {
-      path: '/aboutIcwrerKeynoteSpeakers',
-      name: 'AboutIcwrerKeynoteSpeakers',
-      component: AboutIcwrerKeynoteSpeakers
+      path: '/aboutIsweeKeynoteSpeakers',
+      name: 'AboutIcsweeKeynoteSpeakers',
+      component: AboutIsweeKeynoteSpeakers
     },
     {
-      path: '/aboutIcwrerCommittes',
-      name: 'AboutIcwrerCommittes',
-      component: AboutIcwrerCommittes
+      path: '/aboutIsweeCommittes',
+      name: 'AboutIsweeCommittes',
+      component: AboutIsweeCommittes
     },
     {
-      path: '/aboutIcwrerConferenceVenue',
-      name: 'AboutIcwrerConferenceVenue',
-      component: AboutIcwrerConferenceVenue
+      path: '/aboutIsweeConferenceVenue',
+      name: 'AboutIsweeConferenceVenue',
+      component: AboutIsweeConferenceVenue
     },
 
     {

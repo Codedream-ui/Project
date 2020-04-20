@@ -1,21 +1,21 @@
 <template>
   <div>
-    <banner label="Agenda" on="Agenda"></banner>
+    <banner label="Conference Agenda" on="Conference Agenda"></banner>
     <section class="container guidelines-text">
           <div class="mb20 fs26 color-014c85">Brief Program</div>
-            <div class="mb10">2020 International Symposium on Water, Ecology and Environment (ISWEE 2020) will be held in Beijing, China from December 6th to 8th, 2020. </div>
+            <div class="mb10">2021 International Symposium on Biomedical Engineering and Computational Biology (BECB 2021) will be held in Beijing, China from August 11th to 13th, 2021. </div>
             
             <table border="1" class="agenda-table">
               <tr>
                 <td colspan="3">Schedule</td>
               </tr>
               <tr>
-                <td>December 6th, 2020 (Sunday)</td>
+                <td>August 11th, 2021 (Wednesday)</td>
                 <td>09:00-17:00</td>
                 <td>Registration</td>
               </tr>
               <tr>
-                <td rowspan="3">December 7th, 2020 (Monday)</td>
+                <td rowspan="3">August 12th, 2021 (Thusday)</td>
                 <td>09:00-12:00</td>
                 <td>Keynote Speeches & Poster Session </td>
               </tr>
@@ -30,7 +30,7 @@
                 <td>Oral Presentations</td>
               </tr>
               <tr>
-                <td>December 8th, 2020 (Tuesday)</td>
+                <td>August 13th, 2021 (Friday)</td>
                 <td>09:00-18:00</td>
                 <td>Technical Investigation</td>
               </tr>

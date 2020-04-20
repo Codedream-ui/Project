@@ -5,7 +5,7 @@
       <div class="container fix">
         <!-- LOGO -->
         <img class="logo fl mt10" src="./assets/images/logo.jpg" alt="logo">
-        <div class="header-right fr">
+        <div class="header-right fl">
           <div class="language-toggle">
             <div class="fr">
               <img class="vm mr5" src="./assets/images/icon_1.jpg" alt="">
@@ -17,15 +17,15 @@
           <ul class="menu-list fix">
             <li><router-link exact :to="urlData.home">Home</router-link></li>
             <li>
-              <router-link :to="urlData.aboutIcwrer">About ISWEE</router-link>
+              <router-link to="#">About BECB</router-link>
               <ul class="child-menu-list fix">
-                <li><router-link :to="urlData.aboutIcwrerCommittes">Committee</router-link></li>
-                <li><router-link :to="urlData.aboutIcwrerKeynoteSpeakers">Keynote Speakers</router-link></li>
-                <li><router-link :to="urlData.aboutIcwrerConferenceVenue">Conference Venue</router-link></li>
+                <li><router-link :to="urlData.aboutIsweeCommittes">Committee</router-link></li>
+                <li><router-link :to="urlData.aboutIsweeKeynoteSpeakers">Keynote Speakers</router-link></li>
+                <li><router-link :to="urlData.aboutIsweeConferenceVenue">Conference Venue</router-link></li>
               </ul>
             </li>
             <li>
-              <router-link :to="urlData.submissions">Submissions</router-link>
+              <router-link to="#/">Submissions</router-link>
               <ul class="child-menu-list fix">
                 <li><router-link :to="urlData.submissionsTopics">Topics</router-link></li>
                 <li><router-link :to="urlData.submissionsGuidelines">Guidelines</router-link></li>
@@ -34,7 +34,7 @@
             </li>
             <li><router-link :to="urlData.agenda">Agenda</router-link></li>
             <li><router-link :to="urlData.registration">Registration</router-link></li>
-            <li><router-link :to="urlData.hotelAndTravel">Hotel and Travel</router-link></li>
+            <li><a href="http://english.visitbeijing.com.cn">Beijing</a></li>
             <li><router-link :to="urlData.contacUs">Contact</router-link></li>
           </ul>
         </div>
@@ -56,8 +56,8 @@
             </div>
           <ul>
             <li  ><router-link :to="urlData.home">Home</router-link></li>
-            <li  ><router-link :to="urlData.aboutIcwrer">About ISWEE</router-link></li>
-            <li  ><router-link :to="urlData.submissions">Submissions</router-link></li>
+            <li  ><router-link :to="urlData.aboutIswee">About BECB</router-link></li>
+            <li  ><router-link :to="urlData.submissionsGuidelines">Submissions</router-link></li>
             <li  ><router-link :to="urlData.agenda">Agenda</router-link></li>
             <li  ><router-link :to="urlData.registration">Registration</router-link></li>
   
@@ -67,17 +67,17 @@
           <div style="height: 35px;">
                 <h2  style="color: #1e8cd5;margin-bottom: .5em;font-size: 1.308em;line-height: 1.2;border-bottom: 2px double #1e8cd5;width: 220px; ">Contact</h2>
             </div>
-          Conference Secretary: Ms<br>
-           <img src="./assets/images/email.jpg" style="width:20px;">Email: iswee@outlook.com<br>
-            <img src="./assets/images/tele.jpg" style="width:20px;">Cell phone: +86 111111111111 <br>
-            <img src="./assets/images/wexin.jpg" style="width:20px;">Wechat: 11111111111<br>
+          Conference Secretary: Ms <br>
+           <img src="./assets/images/email.jpg" style="width:20px;">Email:becbinfo@163.com;chenmengqin0202@163.com<br>
+            <img src="./assets/images/tele.jpg" style="width:20px;">Cell phone:  +86 13237144835 <br>
+            <img src="./assets/images/wexin.jpg" style="width:20px;">Wechat: 13237144835<br>
 
         </div>
       </div>
 
       <div class="footer-copy">
         <div class="container">
-          Copyright 2020 All rights reserved  
+          Copyright 2021 All rights reserved  
         </div>
       </div>
     </footer>
@@ -99,9 +99,9 @@ export default {
         hotelAndTravel : '/hotelAndTravel',
         contacUs : '/contacUs',
         
-        aboutIcwrerCommittes:'/aboutIcwrerCommittes', 
-        aboutIcwrerKeynoteSpeakers : '/aboutIcwrerKeynoteSpeakers',
-        aboutIcwrerConferenceVenue : '/aboutIcwrerConferenceVenue',
+        aboutIsweeCommittes:'/aboutIsweeCommittes', 
+        aboutIsweeKeynoteSpeakers : '/aboutIsweeKeynoteSpeakers',
+        aboutIsweeConferenceVenue : '/aboutIsweeConferenceVenue',
 
         submissionsTopics:'/submissionsTopics',     
         submissionsPublications:'/submissionsPublications',     
@@ -131,6 +131,9 @@ export default {
   height: 80px;
   margin-top: 10px;
 }
+.header-right {
+  margin-left: 30px;
+}
 .language-toggle {
   height: 36px;
   line-height: 36px;
@@ -152,8 +155,7 @@ export default {
   display: inline-block;
   height: 60px;
   line-height: 34px;
-  padding-right: 28px;
-  padding-left: 28px;
+  padding: 0 34px;
   font-size: 20px;
   color: #404040;
 }
@@ -195,7 +197,7 @@ export default {
     width: 100%;
     min-width: 1200px;
     padding-top: 30px;
-    background: #b6c3aa;
+    background: #afacac;
     color: #fff;
 }
 .footer-nav{
